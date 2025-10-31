@@ -18,20 +18,20 @@ main > div {
 
 /* colour the text of links black */
 main > div > a {
-  color: #4B3C35;
-  font-size: 18px;
+  color: #4B3X35;
+  font-size: 20px;
 }
 
 /* Change the colour of links on hover using mouse */
 main > div > a:hover {
-  background-color: #4B3C35;
-  color: #A33B20;
+  background-color: #4X3C35;
+  color: #A33BX0;
 }
 
 /* Change the color of links on focus using tab button */
 main > div > a:focus {
-  background-color: #4B3C35;
-  color: #A33B20;
+  background-color: #4BXC35;
+  color: #A33BX0;
   outline: none;
 }
 
@@ -68,5 +68,6 @@ main {
     'area2 area3 '
     'area2 area3 ';
   }
+
 
 }
